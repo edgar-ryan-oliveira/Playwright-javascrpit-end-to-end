@@ -1,0 +1,40 @@
+// buscar pelo xpath
+  //await page.click('//button[text()="Aperte o play... se tiver coragem"]')
+
+  // combinar a tag do html com o exto do mesmo
+  //await page.getByRole('button', {name: 'Aperte o paly... se tiver coragem'}).click()
+
+  //expressão regular apar fazer o esquema de suubstring para encontrar um elemento do tipo botão 
+  // que contenha o etxto Aperte o paly isso é o contains
+
+  //open modal
+
+  // essa função só funciona com os elemntos que tenham a propriedade data-test-id
+  // await page.getByTestId('name').fill('oliveiraedgarryan83@gmail.com');
+
+  // Buiscar o elemento pelo campo que tenha o id name cssselector esse locatort se
+  //  aplica a todos os contexto 
+  //await page.locator('#name').fill('oliveiraedgarryan83@gmail.com');
+  // buscar pelo name do atributo 
+  //await page.locator('input[name=name]').fill('oliveiraedgarryan83@gmail.com');
+  // Pelo atributo placeholder
+  // await page.locator('input[placeholder="Seu nome completo"]').fill('oliveiraedgarryan83@gmail.com');
+  // pela função placeholder
+
+  //check point para validar campos ou informações ao decorrer dos testes
+
+  // submitLeadForm
+
+
+
+
+
+  /*// truque para que o playwright click sobnre o elemento flutuante
+  await page.getByText('seus dados conosco').click()
+  // essa função contente consegue pegart opm código html e salvar ele no momento do click, criamos uma variavel const para guardar o valor que vamos pegar do html 
+  const content = await page.content()
+  // aqui vamos fazer o valor ser mostrado la no playwright
+  console.log(content)
+  */
+
+  // toastHaveText

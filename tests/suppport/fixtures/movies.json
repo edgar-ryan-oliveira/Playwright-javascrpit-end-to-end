@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU é chamado para investigar uma pandemia que transforma pessoas em criaturas violentas.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": true,
+    "cover": "/caminho/para/guerra_mundial_z.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após acordar de um coma, Jim descobre que Londres foi devastada por um vírus que transforma pessoas infectadas em seres extremamente violentos.",
+    "company": "20th Century Fox",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/caminho/para/exterminio.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Shaun precisa enfrentar um apocalipse zumbi enquanto tenta proteger sua mãe, sua namorada e seu melhor amigo.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/caminho/para/todo_mundo_quase_morto.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Quatro sobreviventes de um apocalipse zumbi atravessam os Estados Unidos enquanto tentam encontrar um lugar seguro para sobreviver.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/caminho/para/zumbilandia.png"
+  },
+  "train_to_busan": {
+    "title": "Train to Busan",
+    "overview": "Um pai e sua filha embarcam em um trem para Busan quando uma epidemia zumbi começa a se espalhar pelo país.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "/caminho/para/train_to_busan.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes se refugia em um shopping enquanto uma epidemia transforma a população em zumbis.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/caminho/para/madrugada_dos_mortos.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas se refugia em uma casa enquanto mortos-vivos começam a cercar o local e atacar os sobreviventes.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "/caminho/para/a_noite_dos_mortos_vivos.png"
+  },
+  "resident_evil": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe de agentes é enviada para um laboratório subterrâneo após um vírus mortal escapar e transformar pessoas em criaturas assassinas.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/caminho/para/resident_evil.png"
+  },
+  "eu_sou_a_lenda": {
+    "title": "Eu Sou a Lenda",
+    "overview": "Um cientista aparentemente é o último sobrevivente de Nova York após um vírus transformar grande parte da humanidade em criaturas perigosas.",
+    "company": "Warner Bros. Pictures",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/caminho/para/eu_sou_a_lenda.png"
+  },
+  "rec": {
+    "title": "REC",
+    "overview": "Uma repórter e seu cinegrafista ficam presos em um prédio onde uma misteriosa infecção começa a se espalhar.",
+    "company": "Filmax",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/caminho/para/rec.png"
+  }
+}
